@@ -1,2 +1,3 @@
-var aleatorio = Math.random()*20
+var aleatorio = Math.random()*10
 console.log(aleatorio);
+
